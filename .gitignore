@@ -1,5 +1,5 @@
-.vs
-out
-src/include/fastwfc
-lib
-wfc_stdio.exe
+/.vs
+/out
+/src/include/fastwfc
+/lib
+/wfc_stdio.exe
